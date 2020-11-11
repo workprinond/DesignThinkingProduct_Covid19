@@ -5,17 +5,39 @@ https://dribbble.com/workprinond
 
 For checking out the prototype: 
 i. Emily’s Phone Workplace: https://www.figma.com/file/YancMGKEnVsGICZ1XpxOsT/Emily's-Phone?node-id=0%3A1
+
+
 ii. Emily’s Phone Play:
+
 https://www.figma.com/proto/YancMGKEnVsGICZ1XpxOsT/Emily's-Phone?node-id=208%3A148&scaling=scale-down
+
+
 iii. Andrei’s Phone Workplace:
+
 https://www.figma.com/file/Fkx9BSD4e4JL5auIFqSB3p/Andrei's-Phone?node-id=0%3A1
+
+
 iv. Andrei’s Phone Play: https://www.figma.com/proto/Fkx9BSD4e4JL5auIFqSB3p/Andrei's-Phone?node-id=250%3A282&scaling=scale-down
+
+
 v. Andrei’s Apple watch Workplace:
+
 https://www.figma.com/file/6wORj4d40KLPqg4YzU8RHl/Andrei's-Apple-Watch?node-id=0%3A1
-vi. Andrei’s Apple watch Play: https://www.figma.com/proto/6wORj4d40KLPqg4YzU8RHl/Andrei's-Apple-Watch?node-id=253%3A55&scaling=scale-down
+
+
+vi. Andrei’s Apple watch Play:
+
+https://www.figma.com/proto/6wORj4d40KLPqg4YzU8RHl/Andrei's-Apple-Watch?node-id=253%3A55&scaling=scale-down
+
+
 vii. Emily’s Mi Band Workplace:
+
 https://www.figma.com/file/CAxgMr4LxjzbvQbRKGaj7j/Emily's-MI-Band?node-id=0%3A1
-viii. Emily’s Band Play: https://www.figma.com/proto/CAxgMr4LxjzbvQbRKGaj7j/Emily's-MI-Band?node-id=228%3A653&scaling=scale-down
+
+
+viii. Emily’s Band Play:
+
+https://www.figma.com/proto/CAxgMr4LxjzbvQbRKGaj7j/Emily's-MI-Band?node-id=228%3A653&scaling=scale-down
 2
 2. SUS SCORE
 i. User 1: 95
