@@ -1,10 +1,16 @@
 PEACE-TIME APP
-# DesignThinkingProduct_Covid19
+# DesignThinkingProduct_Socialization_during_Lockdown
+
+
 For checking out design: 
+
 https://dribbble.com/workprinond
 
 For checking out the prototype: 
-i. Emily’s Phone Workplace: https://www.figma.com/file/YancMGKEnVsGICZ1XpxOsT/Emily's-Phone?node-id=0%3A1
+
+i. Emily’s Phone Workplace:
+
+https://www.figma.com/file/YancMGKEnVsGICZ1XpxOsT/Emily's-Phone?node-id=0%3A1
 
 
 ii. Emily’s Phone Play:
@@ -38,7 +44,8 @@ https://www.figma.com/file/CAxgMr4LxjzbvQbRKGaj7j/Emily's-MI-Band?node-id=0%3A1
 viii. Emily’s Band Play:
 
 https://www.figma.com/proto/CAxgMr4LxjzbvQbRKGaj7j/Emily's-MI-Band?node-id=228%3A653&scaling=scale-down
-2
+
+
 2. SUS SCORE
 i. User 1: 95
 ii. User 2: 92.5
